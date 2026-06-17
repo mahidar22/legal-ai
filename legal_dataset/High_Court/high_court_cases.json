@@ -1,0 +1,44 @@
+[
+  {
+    "id": "HC_001",
+    "case_title": "State of Maharashtra v. Rajan (Cyber Fraud)",
+    "court": "Bombay High Court",
+    "year": 2023,
+    "acts_sections": ["IT Act 66", "IT Act 66C", "IT Act 66D", "IPC 420"],
+    "subject": "Cyber fraud and identity theft",
+    "outcome": "Convicted",
+    "key_holdings": [
+      "Digital evidence admissible under Section 65B of Evidence Act",
+      "IP address logs constitute valid electronic evidence",
+      "Combined charges under IT Act and IPC permissible"
+    ]
+  },
+  {
+    "id": "HC_002",
+    "case_title": "Delhi Domestic Violence Case",
+    "court": "Delhi High Court",
+    "year": 2022,
+    "acts_sections": ["IPC 498A", "IPC 304B", "Domestic Violence Act 2005"],
+    "subject": "Cruelty and dowry death",
+    "outcome": "Convicted",
+    "key_holdings": [
+      "Cruelty need not be only physical — mental cruelty sufficient",
+      "Dowry death presumption under 304B applies when conditions met",
+      "Living separately does not negate cruelty allegations"
+    ]
+  },
+  {
+    "id": "HC_003",
+    "case_title": "State of Karnataka v. Shivakumar (Dacoity)",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "acts_sections": ["IPC 395", "IPC 397", "IPC 34"],
+    "subject": "Dacoity with weapons",
+    "outcome": "Convicted",
+    "key_holdings": [
+      "Common intention established through coordinated attack",
+      "Presence of weapons enhances offence to dacoity",
+      "Each member liable for acts of all in furtherance of common intention"
+    ]
+  }
+]

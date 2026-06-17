@@ -1,0 +1,38 @@
+{
+  "act_name": "Information Technology Act, 2000",
+  "act_short": "IT Act",
+  "effective_date": "2000-10-17",
+  "amended": "2008",
+  "description": "The IT Act provides legal framework for electronic commerce, digital signatures, and cybercrime in India. It was amended in 2008 to address emerging cyber threats.",
+  "key_provisions": {
+    "43": "Penalty for damage to computer system",
+    "43A": "Compensation for failure to protect data (added 2008)",
+    "66": "Computer related offences (hacking, fraud)",
+    "66A": "Offensive messages (STRUCK DOWN by SC in 2015)",
+    "66B": "Receiving stolen computer resource",
+    "66C": "Identity theft",
+    "66D": "Cheating by personation",
+    "66E": "Violation of privacy",
+    "67": "Publishing obscene material",
+    "67A": "Sexually explicit material",
+    "67B": "Child pornography",
+    "69": "Government power to intercept/monitor",
+    "69A": "Power to block access to websites",
+    "69B": "Power to authorize monitoring",
+    "72": "Breach of confidentiality",
+    "72A": "Disclosure of information in breach of contract",
+    "79": "Intermediary liability"
+  },
+  "important_judgments": [
+    {
+      "case": "Shreya Singhal v. Union of India (2015)",
+      "holding": "Section 66A struck down as unconstitutional. Section 69A and 79 read down to require court/government order for content removal.",
+      "citation": "AIR 2015 SC 1523"
+    },
+    {
+      "case": "Justice K.S. Puttaswamy v. Union of India (2017)",
+      "holding": "Right to privacy declared fundamental right — impacts data protection under IT Act.",
+      "citation": "AIR 2017 SC 4161"
+    }
+  ]
+}

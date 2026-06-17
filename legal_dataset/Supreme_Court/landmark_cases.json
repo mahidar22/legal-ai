@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SC_001",
+    "case_title": "Bachan Singh v. State of Punjab",
+    "citation": "AIR 1980 SC 898",
+    "year": 1980,
+    "bench": "5 judges",
+    "subject": "Constitutionality of death penalty",
+    "acts_sections": ["IPC 302", "CrPC 354(3)"],
+    "outcome": "Death penalty upheld but restricted to rarest of rare cases",
+    "key_holdings": [
+      "Death penalty does not violate Article 21 of the Constitution",
+      "Life imprisonment is the rule; death penalty is the exception",
+      "Courts must balance aggravating and mitigating circumstances",
+      "The rarest of rare test established"
+    ]
+  },
+  {
+    "id": "SC_002",
+    "case_title": "Vishaka v. State of Rajasthan",
+    "citation": "AIR 1997 SC 3011",
+    "year": 1997,
+    "bench": "3 judges",
+    "subject": "Sexual harassment at workplace",
+    "acts_sections": ["IPC 354", "IPC 509"],
+    "outcome": "Vishaka Guidelines laid down",
+    "key_holdings": [
+      "Sexual harassment at workplace violates Article 21",
+      "Guidelines for prevention of sexual harassment laid down",
+      "Employers must provide safe working environment",
+      "Foundation for Sexual Harassment of Women at Workplace Act, 2013"
+    ]
+  },
+  {
+    "id": "SC_003",
+    "case_title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "year": 2015,
+    "bench": "3 judges",
+    "subject": "Constitutionality of Section 66A IT Act",
+    "acts_sections": ["IT Act 66A", "IT Act 69", "IT Act 79"],
+    "outcome": "Section 66A struck down as unconstitutional",
+    "key_holdings": [
+      "Section 66A violates Article 19(1)(a) — freedom of speech",
+      "Distinction between discussion, advocacy, and incitement",
+      "Online speech has same protection as offline speech",
+      "Section 69A and 79 read down"
+    ]
+  },
+  {
+    "id": "SC_004",
+    "case_title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "year": 1973,
+    "bench": "13 judges",
+    "subject": "Basic structure doctrine",
+    "acts_sections": ["Constitution Article 368", "Article 31"],
+    "outcome": "Basic structure doctrine established",
+    "key_holdings": [
+      "Parliament cannot alter the basic structure of the Constitution",
+      "Basic structure includes: democracy, federalism, secularism, judicial review",
+      "Amendment power under Article 368 is not unlimited",
+      "Judicial review is part of the basic structure"
+    ]
+  },
+  {
+    "id": "SC_005",
+    "case_title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "year": 1978,
+    "bench": "7 judges",
+    "subject": "Due process and Article 21",
+    "acts_sections": ["Constitution Article 21", "Article 14", "Article 19"],
+    "outcome": "Expanded scope of Article 21",
+    "key_holdings": [
+      "Article 21 is not merely about executive action but also about procedure established by law",
+      "Procedure must be just, fair, and reasonable",
+      "Article 14, 19, and 21 are interrelated",
+      "Right to travel abroad is part of personal liberty"
+    ]
+  }
+]

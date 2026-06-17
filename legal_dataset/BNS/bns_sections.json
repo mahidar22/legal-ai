@@ -1,0 +1,52 @@
+{
+  "act_name": "Bharatiya Nyaya Sanhita, 2023",
+  "act_short": "BNS",
+  "effective_date": "2024-07-01",
+  "description": "The Bharatiya Nyaya Sanhita (BNS) replaces the Indian Penal Code (IPC) of 1860. It codifies criminal law in India with updated provisions reflecting modern legal standards.",
+  "key_changes_from_ipc": [
+    "Community service introduced as a form of punishment",
+    "Sedition law replaced with 'acts endangering sovereignty'",
+    "New provisions for organized crime and terrorism",
+    "Enhanced punishments for various offences",
+    "Gender-neutral language in many sections"
+  ],
+  "chapters": [
+    { "number": 1, "title": "Preliminary", "sections": "1-4" },
+    { "number": 2, "title": "General Exceptions", "sections": "5-39" },
+    { "number": 3, "title": "Of Punishments", "sections": "40-46" },
+    { "number": 4, "title": "General Exceptions (continued)", "sections": "47-51" },
+    { "number": 5, "title": "Of Offences Against the Body", "sections": "52-85" },
+    { "number": 6, "title": "Of Offences Against Women", "sections": "63-80" },
+    { "number": 7, "title": "Of Offences Against Property", "sections": "221-256" },
+    { "number": 8, "title": "Of Offences Relating to Documents and Property Marks", "sections": "253-260" },
+    { "number": 9, "title": "Of Offences Against the Public Tranquillity", "sections": "189-200" },
+    { "number": 10, "title": "Of Offences Relating to Election", "sections": "261-269" },
+    { "number": 11, "title": "Of Offences Against the State", "sections": "147-154" },
+    { "number": 12, "title": "Of Offences Relating to the Armed Forces", "sections": "155-161" },
+    { "number": 13, "title": "Of Criminal Conspiracy and Abetment", "sections": "45-60" },
+    { "number": 14, "title": "Of Offences Against the State and Public Tranquillity", "sections": "147-161" },
+    { "number": 15, "title": "Of Attempt, Conspiracy, and Abetment", "sections": "45-60" },
+    { "number": 16, "title": "Of Offences Affecting the Human Body", "sections": "87-120" },
+    { "number": 17, "title": "Of Offences Against Property", "sections": "221-260" },
+    { "number": 18, "title": "Of Offences Relating to Documents", "sections": "335-360" },
+    { "number": 19, "title": "Of the Criminal Breach of Contracts of Trust", "sections": "316-330" },
+    { "number": 20, "title": "Of Offences Relating to Marriage", "sections": "81-86" }
+  ],
+  "ipc_to_bns_mapping": {
+    "302": "103",
+    "307": "109",
+    "323": "114",
+    "354": "304",
+    "376": "63",
+    "379": "221",
+    "420": "245",
+    "498A": "300",
+    "304B": "299",
+    "34": "387",
+    "120A": "45",
+    "120B": "61",
+    "395": "229",
+    "406": "324",
+    "506": "270"
+  }
+}
